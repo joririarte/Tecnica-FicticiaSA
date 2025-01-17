@@ -1,0 +1,6 @@
+@Tecnica_FicticiaSA_HostAddress = http://localhost:5075
+
+GET {{Tecnica_FicticiaSA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

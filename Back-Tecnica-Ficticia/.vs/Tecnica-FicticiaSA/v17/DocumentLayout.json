@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jor_i\\OneDrive\\Escritorio\\Tecnica-FicticiaSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A45950A-1E04-4845-B3BF-71E24B8E478A}|Tecnica-FicticiaSA.csproj|c:\\users\\jor_i\\onedrive\\escritorio\\tecnica-ficticiasa\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A45950A-1E04-4845-B3BF-71E24B8E478A}|Tecnica-FicticiaSA.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A45950A-1E04-4845-B3BF-71E24B8E478A}|Tecnica-FicticiaSA.csproj|c:\\users\\jor_i\\onedrive\\escritorio\\tecnica-ficticiasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A45950A-1E04-4845-B3BF-71E24B8E478A}|Tecnica-FicticiaSA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A45950A-1E04-4845-B3BF-71E24B8E478A}|Tecnica-FicticiaSA.csproj|c:\\users\\jor_i\\onedrive\\escritorio\\tecnica-ficticiasa\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A45950A-1E04-4845-B3BF-71E24B8E478A}|Tecnica-FicticiaSA.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A45950A-1E04-4845-B3BF-71E24B8E478A}|Tecnica-FicticiaSA.csproj|c:\\users\\jor_i\\onedrive\\escritorio\\tecnica-ficticiasa\\models\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A45950A-1E04-4845-B3BF-71E24B8E478A}|Tecnica-FicticiaSA.csproj|solutionrelative:models\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A45950A-1E04-4845-B3BF-71E24B8E478A}|Tecnica-FicticiaSA.csproj|c:\\users\\jor_i\\onedrive\\escritorio\\tecnica-ficticiasa\\models\\dtos\\atributosadicionalesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A45950A-1E04-4845-B3BF-71E24B8E478A}|Tecnica-FicticiaSA.csproj|solutionrelative:models\\dtos\\atributosadicionalesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A45950A-1E04-4845-B3BF-71E24B8E478A}|Tecnica-FicticiaSA.csproj|c:\\users\\jor_i\\onedrive\\escritorio\\tecnica-ficticiasa\\models\\ficticiadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A45950A-1E04-4845-B3BF-71E24B8E478A}|Tecnica-FicticiaSA.csproj|solutionrelative:models\\ficticiadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jor_i\\OneDrive\\Escritorio\\Tecnica-FicticiaSA\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jor_i\\OneDrive\\Escritorio\\Tecnica-FicticiaSA\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T23:12:24.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\jor_i\\OneDrive\\Escritorio\\Tecnica-FicticiaSA\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\jor_i\\OneDrive\\Escritorio\\Tecnica-FicticiaSA\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T22:14:57.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AtributosAdicionalesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jor_i\\OneDrive\\Escritorio\\Tecnica-FicticiaSA\\Models\\DTOs\\AtributosAdicionalesDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\AtributosAdicionalesDTO.cs",
+              "ToolTip": "C:\\Users\\jor_i\\OneDrive\\Escritorio\\Tecnica-FicticiaSA\\Models\\DTOs\\AtributosAdicionalesDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\AtributosAdicionalesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T21:04:13.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jor_i\\OneDrive\\Escritorio\\Tecnica-FicticiaSA\\Models\\DTOs\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\jor_i\\OneDrive\\Escritorio\\Tecnica-FicticiaSA\\Models\\DTOs\\ClienteDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\ClienteDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBYAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:59:34.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\jor_i\\OneDrive\\Escritorio\\Tecnica-FicticiaSA\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\jor_i\\OneDrive\\Escritorio\\Tecnica-FicticiaSA\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAYwO8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T00:19:55.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FicticiaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jor_i\\OneDrive\\Escritorio\\Tecnica-FicticiaSA\\Models\\FicticiaDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\FicticiaDbContext.cs",
+              "ToolTip": "C:\\Users\\jor_i\\OneDrive\\Escritorio\\Tecnica-FicticiaSA\\Models\\FicticiaDbContext.cs",
+              "RelativeToolTip": "Models\\FicticiaDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wCsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T23:25:47.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
