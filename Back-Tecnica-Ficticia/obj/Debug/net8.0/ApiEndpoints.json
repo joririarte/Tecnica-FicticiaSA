@@ -1,0 +1,155 @@
+[
+  {
+    "ContainingType": "Tecnica_FicticiaSA.Controllers.AccesoController",
+    "Method": "Login",
+    "RelativePath": "api/Acceso/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userLogging",
+        "Type": "Tecnica_FicticiaSA.Models.DTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tecnica_FicticiaSA.Controllers.AccesoController",
+    "Method": "Registrarse",
+    "RelativePath": "api/Acceso/Registrarse",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Tecnica_FicticiaSA.Models.DTOs.UsuarioDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tecnica_FicticiaSA.Controllers.ClienteController",
+    "Method": "ListarClientes",
+    "RelativePath": "api/Cliente/Clientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tecnica_FicticiaSA.Controllers.ClienteController",
+    "Method": "RegistrarCliente",
+    "RelativePath": "api/Cliente/Clientes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cliente",
+        "Type": "Tecnica_FicticiaSA.Models.DTOs.ClienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tecnica_FicticiaSA.Controllers.ClienteController",
+    "Method": "ObtenerCliente",
+    "RelativePath": "api/Cliente/Clientes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tecnica_FicticiaSA.Controllers.ClienteController",
+    "Method": "EliminarCliente",
+    "RelativePath": "api/Cliente/Clientes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tecnica_FicticiaSA.Controllers.ClienteController",
+    "Method": "ActualizarCliente",
+    "RelativePath": "api/Cliente/Clientes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cliente",
+        "Type": "Tecnica_FicticiaSA.Models.DTOs.ClienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tecnica_FicticiaSA.Controllers.ClienteController",
+    "Method": "ActualizarParcialCliente",
+    "RelativePath": "api/Cliente/Clientes/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cliente",
+        "Type": "Tecnica_FicticiaSA.Models.DTOs.ClienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Tecnica_FicticiaSA.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Tecnica_FicticiaSA.WeatherForecast, Tecnica-FicticiaSA, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
